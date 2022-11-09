@@ -12,8 +12,10 @@ This repository contains data extracted from the [Italian National Institute of 
 | Column      | Definition | Format     |
 | :---        |    :----:   |          ---: |
 | Week     |  Week of reporting       | YYYY-WW   |
-| Region | Region of infection.  | ISO 3166-2:IT letter region code |
-| Province| Province of infection. | ISO 3166-2:IT letter province code |
+| Region code| NUTS 3 region code | String |
+| Region name | Region of infection name. | String |
+| Province code | NUTS 3 province code | String |
+| Province name | Province of infection name. | String |
 | New human infections | Daily number of new human cases. | Numeric |
 | Total number of human infections	 | Cumulative number of human cases.	 | Numeric |
 | New human deaths | Daily number of new human deaths. | Numeric |
