@@ -25,8 +25,8 @@ This repository contains data extracted from the [Italian National Institute of 
 | New outbreaks in birds | Daily number of bird cases. | Numeric |
 | Total number of outbreaks in birds	 | Cumulative number of bird cases.	 | Numeric |
 | Max Temp	 | Maximum temperature a region/province of infection. | Numeric |
-| Min Temp		| Minimum temperature of a region/province of infection  | Numeric |
-| Humidity	 | Humidity of a region/province of infection | Numeric |
+| Min Temp		| Minimum temperature of a region/province of infection.  | Numeric |
+| Humidity	 | Humidity of a region/province of infection. | Numeric |
 | Precip	 | Rainfall intensity of a region/province of infection. | Numeric |
 
 
